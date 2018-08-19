@@ -14,7 +14,7 @@
     <author href="http://moodle.com" email="mobile@moodle.com">
         IntactMedia
     </author>
-  <gap:plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-             release">
+  <gap:plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-release">
 
         <variable name="ANDROID_SUPPORT_VERSION" value="27.+" />
 
